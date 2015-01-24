@@ -1,0 +1,21 @@
+{
+  "name": "RecreatingEBBackgroundsPlayground",
+  "version": "1.0.0",
+  "description": "EB Backgrounds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "earthbound",
+    "bg",
+    "visuals"
+  ],
+  "author": "Shawn Snyder",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "connect-coffee-script": "^0.2.0",
+    "express": "^4.10.6"
+  }
+}

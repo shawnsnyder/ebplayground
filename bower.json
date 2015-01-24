@@ -1,0 +1,22 @@
+{
+  "name": "EBTest",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/shawnsnyder/ebplayground",
+  "authors": [
+    "Shawn <shawnsnyder@gmail.com>"
+  ],
+  "description": "Test playground for recreating EB backgrounds",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.15",
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.3"
+  }
+}
